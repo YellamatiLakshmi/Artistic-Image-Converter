@@ -23,12 +23,12 @@ A simple web app that transforms your regular photos into artistic images — li
 ---
 
 ## 🗂️ Project Structure
-
+```bash
 artistic-image-converter/
 ├── backend/ # Flask backend
 ├── frontend/ # React frontend
 └── README.md
-
+```
 
 ---
 
