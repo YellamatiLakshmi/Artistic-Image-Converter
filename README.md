@@ -54,8 +54,8 @@ Then open your browser at: http://localhost:3000
 
 ## 🧪 Features
 
-Upload any image
-Choose from multiple styles (pencil sketch, cartoon, etc.)
-View and download the converted image
-100% browser-based — no installation required
+- Upload any image
+- Choose from multiple styles (pencil sketch, cartoon, etc.)
+- View and download the converted image
+- 100% browser-based — no installation required
 ```
