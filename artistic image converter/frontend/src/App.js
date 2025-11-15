@@ -23,7 +23,7 @@ function App() {
   const [oilPaintBrightnessFactor, setOilPaintBrightnessFactor] = useState(1.0);
   const [oilPaintIntensity, setOilPaintIntensity] = useState(50);
 
-  const API_BASE_URL = "http://localhost:5000";
+  const API_BASE_URL = "https://artistic-image-converter.onrender.com";
 
   const resetParameters = useCallback((newStyle) => {
     switch (newStyle) {
